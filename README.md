@@ -1,4 +1,4 @@
-[(https://https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/)]
+[(https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/)]
 <!-- <h3> Hello, I am Javi 👋</h3> -->
 ### Hello, I am Javi 👋
 [![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
