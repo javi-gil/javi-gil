@@ -43,17 +43,14 @@
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
 
+### ⚙️ &nbsp;GitHub Analytics
 
-### :zap: Github Stats
-<p>
-    <a href="https://gitstats.me/javi-gil" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=javi-gil&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
-    </a>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javi-gil&layout=compact)](https://github.com/javi-gil/github-readme-stats) -->
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/javigil
