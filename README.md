@@ -4,8 +4,8 @@
 
 <!-- ## 👋 &nbsp;Hello there! I'm Javi -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
-[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:vbhogayata@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-javigil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javigil/)](https://www.linkedin.com/in/javigil/)
+[![Gmail Badge](https://img.shields.io/badge/-javigil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javigil@gmail.com)](mailto:javigil@gmail.com) 
 
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -16,7 +16,7 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [CV](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [CV](https://www.javigil.com/cv.html) for more details about me.
 
 
 - 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
@@ -46,12 +46,12 @@
 
 ### :zap: Github Stats
 <p>
-    <a href="https://gitstats.me/varadbhogayata" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=varadbhogayata&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+    <a href="https://gitstats.me/javi-gil" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=javi-gil&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javi-gil&layout=compact)](https://github.com/javi-gil/github-readme-stats) -->
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
