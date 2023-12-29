@@ -1,4 +1,4 @@
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_mhzh-PFMdgyaze3D7X42R1mkO4D1PS1yRVB-MxZocFEWxH3gCOVwsc_v-spl7fBc-J4&usqp=CAU)
+(https://ibb.co/9w7XFkZ)
 <!-- <h3> Hello, I am Javi 👋</h3> -->
 ### Hello, I am Javi 👋
 [![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
