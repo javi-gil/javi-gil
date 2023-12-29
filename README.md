@@ -1,6 +1,6 @@
 ![banner](https://github.com/javi-gil/javi-gil/assets/155182727/cf5e705a-86bc-4e4b-aae3-322b83a813ef)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h4>Hello there! I'm Javi</h4>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h3>Hello there! I'm Javi</h3>
 
 <!-- ## 👋 &nbsp;Hello there! I'm Javi -->
 
