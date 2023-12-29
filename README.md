@@ -7,14 +7,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-javigil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javigil/)](https://www.linkedin.com/in/javigil/)
 [![Gmail Badge](https://img.shields.io/badge/-javigil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javigil@gmail.com)](mailto:javigil@gmail.com) 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me:
 
 💡 &nbsp;I like to tinker around with computers and learning about new technologies.\
 🎓 &nbsp;I'm currently studying for the CompTIA Security+ Exam (expected March 2024).\
 🌱 &nbsp;I have a keen interest on Cyber Security, Networking and Cloud Architecture.\
 📄 &nbsp;Please have a look at my [CV](https://www.javigil.com/cv.html) for more details about me.
 
-### 🎯 &nbsp;Projects
+### 🎯 &nbsp;Projects:
 
 
 
@@ -38,7 +38,7 @@
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
 
-### ⚙️ &nbsp;GitHub Analytics
+### :zap: Github Stats
 
 <p align="center">
 <a href="https://github.com/javi-gil">
