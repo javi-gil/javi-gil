@@ -1,4 +1,6 @@
 ![banner](https://github.com/javi-gil/javi-gil/assets/155182727/cf5e705a-86bc-4e4b-aae3-322b83a813ef)
+<!-- ## 👋 &nbsp;Hello there! I'm Javi -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hello there! I'm Javi</h1>
 <!-- <h3> Hello, I am Javi 👋</h3> -->
 ### Hello, I am Javi 👋
 [![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
