@@ -15,13 +15,12 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at javigil@gmail.com! I'll try to respond as soon as I can.\
+📬 How to reach me:
 📄 &nbsp;Please have a look at my [CV](https://www.javigil.com/cv.html) for more details about me.
 
+### 🎯 &nbsp;Projects
 
-- 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+
 
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
