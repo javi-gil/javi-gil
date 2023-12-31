@@ -4,9 +4,6 @@
 
 <!-- ## 👋 &nbsp;Hello there! I'm Javi -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-javigil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javigil/)](https://www.linkedin.com/in/javigil/)
-[![Gmail Badge](https://img.shields.io/badge/-javigil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javigil@gmail.com)](mailto:javigil@gmail.com) 
-
 ### 👨🏻‍💻 &nbsp;About Me:
 
 💡 &nbsp;I like to tinker around with computers and learning about new technologies.\
@@ -16,7 +13,7 @@
 
 ### 🎯 &nbsp;Projects:
 
-
+(Coming soon)
 
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
