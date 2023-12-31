@@ -8,7 +8,7 @@
 
 💡 &nbsp;I like to tinker around with computers and learning about new technologies.\
 🎓 &nbsp;I'm currently studying for the CompTIA Security+ Exam (expected March 2024).\
-🌱 &nbsp;I have a passion for Cyber Security, Threat Hunting and Tactical Malware Analysis.\
+🌱 &nbsp;I have a passion for IT, particularly Cyber Security.\
 📄 &nbsp;Please have a look at my [CV](https://github.com/javi-gil/javi-gil/blob/main/CV.pdf) for more details about me.
 
 ### 🎯 &nbsp;Projects:
@@ -32,8 +32,8 @@
 <br>
 
 ### Things I love:
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
+- Threat Hunting <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Tactical Malware Analysis ✍️
 
 ### :zap: Github Stats
 
