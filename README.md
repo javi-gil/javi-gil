@@ -9,7 +9,7 @@
 💡 &nbsp;I like to tinker around with computers and learning about new technologies.\
 🎓 &nbsp;I'm currently studying for the CompTIA Security+ Exam (expected March 2024).\
 🌱 &nbsp;I have a passion for Cyber Security, Threat Hunting and Tactical Malware Analysis.\
-📄 &nbsp;Please have a look at my [CV](https://www.javigil.com/cv.html) for more details about me.
+📄 &nbsp;Please have a look at my [CV](https://github.com/javi-gil/javi-gil/blob/main/CV.pdf) for more details about me.
 
 ### 🎯 &nbsp;Projects:
 
